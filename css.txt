@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>FASHION HUB</title>
+</head>
+    <div style="background-color: black; color: white; padding: 15px;">
+        <h1>FASHION HUB</h1>
+       <p>home |contact | men |women |kids</p>
+
+    </div>
+    <div style="background-color:gainsboro; text-align: center; padding: 30px;">
+        <h2>New Fashion Collection</h2>
+        <p>Upgrade your style todays</p>
+    </div>
+    <h3>Produts</h3>
+<div style="border: 1px solid white; width: 200px; text-align: center; padding: 10px; display: inline-block; margin: 10px; ">
+    <img src="https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300" width ="180" height="200">
+    <h4>T-Shirt</h4>
+    <p>Rs. 799</p>
+    <button style="background-color: black; color: white; padding: 5px 15px;">Buy Now</button>
+  </div>
+
+  <div style="border: 1px solid white; width: 200px; text-align: center; padding: 10px; display: inline-block; margin: 10px;">
+    <img src="https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=300" width="180" height="200">
+    <h4>Dress</h4>
+    <p>Rs. 1499</p>
+    <button style="background-color: black; color: white; padding: 5px 15px;">Buy Now</button>
+  </div>
+
+  <div style="border: 1px solid white; width: 200px; text-align: center; padding: 10px; display: inline-block; margin: 10px;">
+    <img src="https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=300" width="180" height="200">
+    <h4>Jacket</h4>
+    <p>Rs. 1999</p>
+    <button style="background-color: black; color: white; padding: 5px 15px;">Buy Now</button>
+  </div>
+
+  <div style="border: 1px solid white; width: 200px; text-align: center; padding: 10px; display: inline-block; margin: 10px;;">
+    <img src="https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=300" width="180" height="200">
+    <h4>Jeans</h4>
+    <p>Rs. 1299</p>
+    <button style="background-color: black; color: white; padding: 5px 15px;">Buy Now</button>
+  </div>
+
+  <br><br>
+  <div style="background-color: black; color: white; text-align: center; padding: 10px;">
+    <p>© 2026 Fashion Hub | Contact: fashionhub@gmail.com</p>
+  </div>  
+   <body>
+    <nav>
+        <a href="/home">home|</a>
+        <a href="/contact us">contact|</a>
+        <a href="/about us">about|</a>
+        <a href="men">men|</a>
+        <a href="women">women|</a>
+        <a href="kids">kids</a>
+    </nav>
+</body>
+</html>
